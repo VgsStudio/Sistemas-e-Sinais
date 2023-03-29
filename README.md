@@ -9,7 +9,6 @@ SymPy is a Python library for symbolic mathematics. It aims to become a full-fea
 * Learn SymPy
 * Practice Markdown and Latex
 * Study to understand System and Signals subject
-* 
 
 # Base Material
 * [Base Video](https://www.youtube.com/watch?v=1yBPEPhq54M&t=193s)
